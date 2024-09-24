@@ -1,7 +1,6 @@
 public class Saludo{
 
-    public static void main(String[] args) {
+    public void saludo(String[] args) {
         System.out.println("Hola Mundo");
     }
-
 }
